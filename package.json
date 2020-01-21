@@ -1,15 +1,12 @@
 {
   "name": "@kmoerman/multimethod",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Dynamic multiple dispatching for prototypal inheritance.",
-  "main": "multimethod.js",
+  "main": "index.js",
   "repository" : {
     "type": "git",
     "url" : "https://github.com/kmoerman/multimethod"
   },
   "author": "Klaas Moerman",
-  "license": "MIT",
-  "dependencies": {
-    "@kmoerman/bitset": "0.0.1"
-  }
+  "license": "MIT"
 }
